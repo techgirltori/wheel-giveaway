@@ -1,5 +1,6 @@
 {
       "projects": {
-        "test": "wheelgiveaway"
+      "prod": "wheelgiveaway",
+        "test": "wheelgiveaway-test"
       }
     }
