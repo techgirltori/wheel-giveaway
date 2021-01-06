@@ -1,6 +1,6 @@
 {
-      "projects": {
-      "prod": "wheelgiveaway",
-        "test": "wheelgiveaway-test"
-      }
-    }
+  "projects": {
+    "prod": "spinner-300717",
+    "test": "wheel-giveaway-test"
+  }
+}
